@@ -5,7 +5,7 @@ import numpy as np
 #env = UnityEnvironment(file_name='/data/Reacher_One_Linux_NoVis/Reacher_One_Linux_NoVis.x86_64')
 
 # select this option to load version 2 (with 20 agents) of the environment
-env = UnityEnvironment(file_name='~/p2/Reacher_Linux_NoVis/Reacher.x86_64')
+env = UnityEnvironment(file_name='/home/ubuntu/p2/Reacher_Linux_NoVis/Reacher.x86_64')
 
 # get the default brain
 brain_name = env.brain_names[0]
