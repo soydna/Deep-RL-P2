@@ -1,12 +1,3 @@
-# Report
-
-Implmented a vanilla DQN and benchmarked against Double DQN, Duelling DQN and both Double and Douelling DQN. The benchmark was the number of episodes to reach a moving avreage of at least 15.0 over 100 episodes.
-
-[DQN](https://arxiv.org/abs/1312.5602) <br>
-[Double DQN](https://arxiv.org/abs/1509.06461) <br>
-[Duelling DQN](https://arxiv.org/abs/1511.06581) <br>
-
-
 ## Architecture
 Both Actor and Critic uses a fully connected networks with two hidden layers have 200 and 150 nodes. 
 Leaky Relu Activation to avoid dead relu problem with normal Relu 
