@@ -2,7 +2,7 @@
 (Copied from Udacity description)
 
 For this project, you will work with the Reacher environment.
-Inline-style: 
+
 ![trained agent](https://user-images.githubusercontent.com/10624937/43851024-320ba930-9aff-11e8-8493-ee547c6af349.gif "Trained agent")
 
 In this environment, a double-jointed arm can move to target locations. A reward of +0.1 is provided for each step that the agent's hand is in the goal location. Thus, the goal of your agent is to maintain its position at the target location for as many time steps as possible.
