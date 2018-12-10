@@ -1,4 +1,5 @@
 ## Architecture
+Based on Deep Deterministic Policy Gradients (DDPG) (https://arxiv.org/pdf/1509.02971.pdf)
 Both Actor and Critic uses a fully connected networks with two hidden layers:
 * Actor has 150 and 100 nodes in the hidden layers
 * Critic har 150 (+ 4 actions) in the first hidden layer and 150 nodes in the second hidden layer
